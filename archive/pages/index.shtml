@@ -1,0 +1,38 @@
+<head>
+    <link rel="stylesheet" href="/assets/styles/fonts.css">
+    <link rel="stylesheet" href="/assets/styles/basic.css">
+    <link rel="stylesheet" href="/assets/styles/navigation.css">
+
+    <title>Homestuck Art Assets - LOHAC.xyz</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content"> 
+    <meta content="https://lohac.xyz" property="og:url">
+    <meta content="/assets/favicon.png" property="og:image">
+    <meta content="#e00707" data-react-helmet="true" name="theme-color">
+    <meta content="Homestuck Content Archive - LOHAC.xyz" property="og:title">
+    <meta content="A directory of various pages archived on our site." property="og:description">
+</head>
+
+<body>
+    <nav>
+        <!--#include virtual="/navbar.html" --> 
+    </nav>
+    <main>
+        <div class="divider">
+            <h1 style="text-align: center;">Fanworks</h1>
+        </div>
+        <div class="categories">
+            <a href="/archive/pages/tbiy/index.shtml">
+                <div class="container">
+                    <img src="/assets/category/tbiy.png">
+                    <div class="padding">
+                        <h2>The Baby Is You</h2>
+                        <p>I'm surprised this wasn't archived anywhere else.</p>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </main>
+    <footer>
+        <!--#include virtual="/footer.html" --> 
+    </footer>
+</body>

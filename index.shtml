@@ -60,11 +60,10 @@
     <div class="content">
         <div style="width:60%;margin:50px auto;">
             <h2>About The Site</h2>
-            <p>LOHAC.xyz is a fansite dedicated to the Homestuck franchise and its adjacent works. We center focus on
-                the fandom, with some occassional archive content here and there.</p>
+            <p>LOHAC.xyz is a fansite currently acting as a very small archive for Homestuck fanworks.</p>
         </div>
         <div class="divider">
-            <h1 style="text-align: center;">Available on LOHAC</h1>
+            <h1 style="text-align: center;">LOHAC Originals</h1>
         </div>
         <div class="categories">
             <a href="/dollmaker/index.html">
@@ -92,21 +91,21 @@
             <h1 style="text-align: center;">Other Content</h1>
         </div>
         <div class="categories">
-            <a href="/directory/index.shtml">
+            <a href="/archive/resources/index.shtml">
                 <div class="container">
-                    <img src="/assets/category/programs.png">
+                    <img src="/assets/category/resources.png">
                     <div class="padding">
-                        <h2>Homestuck Fandom Directory</h2>
-                        <p>A list of Homestuck fanprojects, easily accessible from one webpage.</p>
+                        <h2>Homestuck Resources</h2>
+                        <p>Resources to help with fancreations, including but not limited to music, art and writing.</p>
                     </div>
                 </div>
             </a>
-            <a href="/archive/resources/index.shtml">
+            <a href="/archive/pages/index.shtml">
                 <div class="container">
-                    <img src="/assets/category/artassets.png">
+                    <img src="/assets/category/contentarchive.png">
                     <div class="padding">
-                        <h2>Homestuck Resources</h2>
-                        <p>Resources for fancreations, including but not limited to music, art and writing.</p>
+                        <h2>Homestuck Content Archive</h2>
+                        <p>Navigation is WIP but this will have stuff on it promise</p>
                     </div>
                 </div>
             </a>

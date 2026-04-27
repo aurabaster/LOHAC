@@ -13,3 +13,7 @@
     font-family: "CreatoBold";
     src: url(/assets/fonts/CreatoDisplayBold.otf);
 }
+@font-face {
+    font-family: "pokeclassic";
+    src: url(/assets/fonts/Pokemon\ Classic.ttf);
+}
